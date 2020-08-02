@@ -55,8 +55,12 @@ main > .tagline {
 	font-weight: 100;
 }
 
+.tagline span {
+    display: block;
+}
+
 .icons-social i {
-	padding: 10px;
+    padding: 10px;
 }
 
 .devto {
